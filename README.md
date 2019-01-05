@@ -146,7 +146,7 @@ Nice! You got the first test to pass.
 
 Now use the skills that you learned above to read through the rest of the test output and fix those errors, too! Always remember to save your file before re-running your tests.
 
-**NOTE**: Because we're dealing with some low-level language features, you might spot some easy ways to "cheat" on this lab, or this lab might seem frustratingly easy. We've given you some starter code to point you in the right direction — try to solve the lab as intended! You can then compare your solution with ours (found in the `solution` branch of this repository).
+**NOTE**: Because we're dealing with some low-level language features, you might spot some easy ways to "cheat" on this lab, or this lab might seem frustratingly easy. We've given kKKK some starter code to point you in the right direction — try to solve the lab as intended! You can then compare your solution with ours (found in the `solution` branch of this repository).
 
 When your tests are passing, submit your answer by typing in `learn submit` in the command line or else create a pull request (use `learn submit` if "pull request" sounds a bit terrifying).
 
